@@ -1,0 +1,1 @@
+🛑 Error al procesar logs: errores.log (El sistema no puede encontrar el archivo especificado)
